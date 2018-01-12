@@ -6,6 +6,7 @@
     <PackageProjectUrl>https://github.com/vijayvepa/NetStandardEnterpriseLibrary</PackageProjectUrl>
     <Version>4.0.2</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>NetStandard.Microsoft.Practices.Unity.RegistrationByConvention</PackageId>
   </PropertyGroup>
 
   <ItemGroup>

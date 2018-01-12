@@ -6,6 +6,7 @@
     <PackageProjectUrl>https://github.com/vijayvepa/NetStandardEnterpriseLibrary</PackageProjectUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>4.0.1</Version>
+    <PackageId>NetStandard.Microsoft.Practices.Unity.InterceptionExtension.Configuration</PackageId>
   </PropertyGroup>
 
   <ItemGroup>

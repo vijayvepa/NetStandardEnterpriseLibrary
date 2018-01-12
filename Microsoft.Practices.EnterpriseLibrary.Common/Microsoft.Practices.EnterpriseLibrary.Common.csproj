@@ -9,6 +9,7 @@
     <Version>6.0.1310</Version>
     <PackageTags>entlib entlib6 Enterprise Library common core LOB NetStandard</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>NetStandard.Microsoft.Practices.EnterpriseLibrary.Common</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
