@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageIconUrl>http://nuget.org/Media/Default/Packages/Unity/2.0/entlib_new_icon_100x100.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/vijayvepa/NetStandardEnterpriseLibrary</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>4.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NetStandard.Microsoft.Practices.Unity" Version="4.0.2" />
+    <PackageReference Include="NetStandard.Microsoft.Practices.Unity.Configuration" Version="4.0.1" />
+    <PackageReference Include="NetStandard.Microsoft.Practices.Unity.InterceptionExtension" Version="4.0.2" />
+  </ItemGroup>
+
+</Project>

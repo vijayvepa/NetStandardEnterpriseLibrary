@@ -13,5 +13,5 @@ Code adapted from the following repositories:
 
 ## Step to build
 
-1. Add PackageRepo folder to your nuget repositories
-2. Open specific solution in Visual Studio 2017 and build.
+1. Add `NugetPackages` folder in this reposiory to your nuget repositories
+2. Open any solution in Visual Studio 2017 and build.
