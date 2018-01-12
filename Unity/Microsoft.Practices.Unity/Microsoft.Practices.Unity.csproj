@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Forked from https://github.com/Chavoshi/Unity.NetCore</Description>
+    <PackageProjectUrl>https://github.com/Chavoshi/Unity.NetCore</PackageProjectUrl>
+    <PackageId>NetStandard.Microsoft.Practices.Unity</PackageId>
+    <PackageIconUrl>http://nuget.org/Media/Default/Packages/Unity/2.0/entlib_new_icon_100x100.png</PackageIconUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>4.0.2</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NetStandard.Microsoft.Practices.ServiceLocation" Version="1.3.0" />
+  </ItemGroup>
+
+</Project>

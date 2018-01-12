@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>NetStandard.Microsoft.Practices.ServiceLocation</PackageId>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <Description>Forked from https://github.com/Chavoshi/CommonServiceLocator.NetCore</Description>
+    <Version>1.3.0</Version>
+    <Authors>Mohammad Chavoshi</Authors>
+    <PackageLicenseUrl>http://opensource.org/licenses/Apache-2.0</PackageLicenseUrl>
+    <PackageIconUrl>http://nuget.org/Media/Default/Packages/Unity/2.0/entlib_new_icon_100x100.png</PackageIconUrl>
+  </PropertyGroup>
+
+</Project>
