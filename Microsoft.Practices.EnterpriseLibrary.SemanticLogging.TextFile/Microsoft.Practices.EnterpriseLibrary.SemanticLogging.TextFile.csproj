@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>NetStandard.Microsoft.Practices.EnterpriseLibrary.SemanticLogging.TextFile</PackageId>
+    <Version>2.0.1406.2</Version>
+    <Description>The Semantic Logging Application Block provides a set of destinations to persist events published by a subclass of EventSource, This add-on packages adds support to persisting log entries into rolling text files and simple text files. This library contains a class library that targets .Net Standard 2.0.</Description>
+    <PackageLicenseUrl>http://opensource.org/licenses/Apache-2.0</PackageLicenseUrl>
+    <PackageIconUrl>http://nuget.org/Media/Default/Packages/Unity/2.0/entlib_new_icon_100x100.png</PackageIconUrl>
+    <PackageTags>slab semantic logging EventSource rolling file text sink NetStandard</PackageTags>
+    <PackageProjectUrl>https://github.com/vijayvepa/NetStandardEnterpriseLibrary</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NetStandard.Microsoft.Practices.EnterpriseLibrary.SemanticLogging" Version="2.0.1406.3" />
+  </ItemGroup>
+
+</Project>
