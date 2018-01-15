@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>NetStandard.Microsoft.Practices.EnterpriseLibrary.PolicyInjection</PackageId>
+    <Version>6.0.1310</Version>
+    <Description>The Enterprise Library Policy Injection Application Block can be used to change the behavior of any .NET objects, in order to better manage crosscutting concerns for these objects. The policy injection is implemented through the Unity interception mechanism. The package includes call handlers for Logging, Validation and Exception Handling. This library contains a class library that targets .Net Standard 2.0.</Description>
+    <PackageLicenseUrl>http://opensource.org/licenses/Apache-2.0</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/vijayvepa/NetStandardEnterpriseLibrary</PackageProjectUrl>
+    <PackageIconUrl>http://nuget.org/Media/Default/Packages/Unity/2.0/entlib_new_icon_100x100.png</PackageIconUrl>
+    <PackageTags>entlib entlib6 Enterprise Library PIAB policy injection interception aop aspect cross cutting LOB NetStandard</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NetStandard.Microsoft.Practices.EnterpriseLibrary.Common" Version="6.0.1310" />
+    <PackageReference Include="NetStandard.Microsoft.Practices.EnterpriseLibrary.ExceptionHandling" Version="6.0.1310" />
+    <PackageReference Include="NetStandard.Microsoft.Practices.EnterpriseLibrary.Logging" Version="6.0.1310" />
+    <PackageReference Include="NetStandard.Microsoft.Practices.EnterpriseLibrary.Validation" Version="6.0.1310" />
+    <PackageReference Include="NetStandard.Microsoft.Practices.Unity" Version="4.0.2" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.4.1" />
+  </ItemGroup>
+
+</Project>
