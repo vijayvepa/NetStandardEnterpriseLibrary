@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIconUrl>http://nuget.org/Media/Default/Packages/Unity/2.0/entlib_new_icon_100x100.png</PackageIconUrl>
+    <PackageId>NetStandard.Microsoft.Practices.EnterpriseLibrary.Caching</PackageId>
+    <Version>5.0.510.0</Version>
+    <Description>The Enterprise Library Caching Application Block lets developers incorporate a local in-memory or persistent cache in their applications. This library contains a class library that targets .Net Standard 2.0.</Description>
+    <PackageTags>entlib Enterprise Library caching cache LOB NetStandard</PackageTags>
+    <PackageProjectUrl>https://github.com/vijayvepa/NetStandardEnterpriseLibrary</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NetStandard.Microsoft.Practices.EnterpriseLibrary.Common" Version="6.0.1310" />
+    <PackageReference Include="System.Security.Permissions" Version="4.4.1" />
+  </ItemGroup>
+
+</Project>
