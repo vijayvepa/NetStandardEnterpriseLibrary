@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>NetStandard.Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging</PackageId>
+    <Authors>Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging</Authors>
+    <Version>6.0.1310</Version>
+    <Company>Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging</Company>
+    <Description>This exception handler lets you log formatted exception information in locations specified in the configuration file. This library contains a class library that targets .Net Core 2.0.</Description>
+    <PackageLicenseUrl>http://opensource.org/licenses/Apache-2.0</PackageLicenseUrl>
+    <PackageIconUrl>http://nuget.org/Media/Default/Packages/Unity/2.0/entlib_new_icon_100x100.png</PackageIconUrl>
+    <PackageTags>entlib entlib6 Enterprise Library exception ehab error management eab logging lab handler LOB NetStandard</PackageTags>
+    <PackageProjectUrl>https://github.com/vijayvepa/NetStandardEnterpriseLibrary</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NetStandard.Microsoft.Practices.EnterpriseLibrary.Common" Version="6.0.1310" />
+    <PackageReference Include="NetStandard.Microsoft.Practices.EnterpriseLibrary.ExceptionHandling" Version="6.0.1310" />
+    <PackageReference Include="NetStandard.Microsoft.Practices.EnterpriseLibrary.Logging" Version="6.0.1310" />
+  </ItemGroup>
+
+</Project>
