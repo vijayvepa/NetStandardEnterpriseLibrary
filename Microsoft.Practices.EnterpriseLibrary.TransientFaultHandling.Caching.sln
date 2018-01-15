@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching", "Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.csproj", "{72AFA3E5-C34F-4DB1-9C2E-82B1DCD33CA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72AFA3E5-C34F-4DB1-9C2E-82B1DCD33CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AFA3E5-C34F-4DB1-9C2E-82B1DCD33CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AFA3E5-C34F-4DB1-9C2E-82B1DCD33CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AFA3E5-C34F-4DB1-9C2E-82B1DCD33CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05926570-ED2F-481F-B179-B4D4958CC8A9}
+	EndGlobalSection
+EndGlobal
