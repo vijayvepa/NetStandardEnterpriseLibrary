@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Utility", "Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Utility\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Utility.csproj", "{2774D981-8FC8-43F8-AB1A-D0F76CCF776C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2774D981-8FC8-43F8-AB1A-D0F76CCF776C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2774D981-8FC8-43F8-AB1A-D0F76CCF776C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2774D981-8FC8-43F8-AB1A-D0F76CCF776C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2774D981-8FC8-43F8-AB1A-D0F76CCF776C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15CF87D0-777A-4616-B3B4-6A619BB0FEB8}
+	EndGlobalSection
+EndGlobal

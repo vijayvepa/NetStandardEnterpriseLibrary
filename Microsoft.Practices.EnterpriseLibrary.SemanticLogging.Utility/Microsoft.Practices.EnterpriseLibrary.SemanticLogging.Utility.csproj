@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>NetStandard.Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Utility</PackageId>
+    <Description>The EventSource Analyzer is part of the Semantic Logging Application Block. It can be incorporated into your automated tests to help validate your EventSource instances. This library contains a class library that targets .Net Standard 2.0.</Description>
+    <Version>2.0.1406.2</Version>
+    <PackageLicenseUrl>http://opensource.org/licenses/Apache-2.0</PackageLicenseUrl>
+    <PackageIconUrl>http://nuget.org/Media/Default/Packages/Unity/2.0/entlib_new_icon_100x100.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/vijayvepa/NetStandardEnterpriseLibrary</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NetStandard.Microsoft.Practices.EnterpriseLibrary.SemanticLogging" Version="2.0.1406.3" />
+  </ItemGroup>
+
+</Project>
