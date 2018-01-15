@@ -8,6 +8,7 @@
     <PackageLicenseUrl>http://opensource.org/licenses/Apache-2.0</PackageLicenseUrl>
     <PackageIconUrl>http://nuget.org/Media/Default/Packages/Unity/2.0/entlib_new_icon_100x100.png</PackageIconUrl>
     <PackageProjectUrl>https://github.com/vijayvepa/NetStandardEnterpriseLibrary</PackageProjectUrl>
+    <Version>5.0.510.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
